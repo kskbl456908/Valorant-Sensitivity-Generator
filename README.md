@@ -190,4 +190,3 @@ valorant-sensitivity-generator/
 **如果这个工具帮你找到了合适的灵敏度，欢迎点个 ⭐ Star 支持一下！**
 
 </div>
-#（注：内容由AI生成）
